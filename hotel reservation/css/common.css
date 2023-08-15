@@ -1,0 +1,24 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+  }
+
+  .logo {
+    font-family: 'Merienda', cursive;
+  }
+
+  .font {
+    font-weight: 500;
+  }
+
+  .custom-bg {
+    background-color: #2ec1ac;
+  }
+
+  .custom-bg:hover {
+    background-color: #279e8c;
+  }
+
+  .nav-color{
+    background-color: rgb(232, 232, 232);
+  }
+
