@@ -1,11 +1,12 @@
 <footer class="d-flex flex-wrap justify-content-center align-items-center py-2 my-3 border-top">
-      <p class="col-md-4 mb-0 text-body-secondary">© 2023 ROYEL HOTEL Inc</p>
+      <p class="col-md-4 mb-0 text-body-secondary">© 2022 The Palm Hotel</p>
 
       <ul class="nav col-md-4 justify-content-end">
-        <li class="nav-item"><a href="index.html" class="nav-link px-2 text-body-secondary">Home</a></li>
-        <li class="nav-item"><a href="about.html" class="nav-link px-2 text-body-secondary">About</a></li>
-        <li class="nav-item"><a href="gallery.html" class="nav-link px-2 text-body-secondary">Gallary</a></li>
-        <li class="nav-item"><a href="contact.html" class="nav-link px-2 text-body-secondary">Contact</a></li>
+        <li class="nav-item"><a href="index.php" class="nav-link px-2 text-body-secondary">Home</a></li>
+        <li class="nav-item"><a href="facilities.php" class="nav-link px-2 text-body-secondary">Facilities</a></li>
+        <li class="nav-item"><a href="rooms.php" class="nav-link px-2 text-body-secondary">Rooms</a></li>
+        <li class="nav-item"><a href="about.php" class="nav-link px-2 text-body-secondary">About Us</a></li>
+        <li class="nav-item"><a href="contact.php" class="nav-link px-2 text-body-secondary">Contact</a></li>
       </ul>
     </footer>
 
