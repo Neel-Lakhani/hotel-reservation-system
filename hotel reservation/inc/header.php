@@ -16,7 +16,7 @@
             <a class="nav-link me-2 " href="./facilities.php">Facilities </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link me-2 " href="./booking.php"> Book Rooms </a>
+            <a class="nav-link me-2 " href="./rooms.php"> Rooms </a>
           </li>
           <li class="nav-item">
             <a class="nav-link me-2 " href="./about.php"> About Us </a>
